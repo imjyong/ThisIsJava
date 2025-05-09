@@ -1,10 +1,5 @@
 package ch02.sec01;
 
-/*
-project: ThisIsJava
-package: ch02.sec01
-*/
-
 public class VariableUseExample {
 	public static void main(String[] args) {
 		int hour = 3;
