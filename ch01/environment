@@ -8,6 +8,6 @@ export PATH=${PATH}:$JAVA_HOME/bin
 # apply ~/.bash_profile content
 $ source ~/.bash_profile
 
-# check environmental variable is applied correctly
+# check environment variable is applied correctly
 $ javac -version
 # javac 17.0.3
