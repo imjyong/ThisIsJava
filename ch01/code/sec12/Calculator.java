@@ -1,10 +1,5 @@
 package ch01.sec12;
 
-/*
-project: ThisIsJava
-package: ch01.sec12
-*/
-
 public class Calculator {
 	public static void main(String[] args) {
 		int x = 1;
