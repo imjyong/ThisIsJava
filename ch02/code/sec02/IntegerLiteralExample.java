@@ -1,10 +1,5 @@
 package ch02.sec02;
 
-/*
-project: ThisIsJava
-package: ch02.sec02
-*/
-
 // 2진수: 0b or 0B로 시작, 0 & 1
 // 8진수 0으로 시작, 0~7
 // 10진수: 0~9
