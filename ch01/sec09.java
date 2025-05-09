@@ -1,3 +1,7 @@
+// project: ThisIsJava
+// package: ch01.sec09
+// class: Hello
+
 package ch01.sec09;
 
 public class Hello {
